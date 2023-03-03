@@ -104,3 +104,8 @@ footer li img {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+/* adder overrides */
+.adder #container {
+  background-size: cover;
+}

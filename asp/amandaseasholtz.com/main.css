@@ -104,3 +104,12 @@ footer li img {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+/* adder overrides */
+.adder #container {
+  background-color: #0094FF;
+}
+
+.right.carousel-control, .left.carousel-control {
+  display: none;
+}
